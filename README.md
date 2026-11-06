@@ -10,8 +10,8 @@ Perforce + TeamCity + a Windows build agent, self-hosted on Proxmox, with a Disc
 ## Table of contents
  
 - [The problem](#the-problem)
-- [The AI](#the-ai)
-- [Abilities (GAS)](#abilities-gas)
+- [The solution](#the-solution)
+- [1. Why TeamCity and not Jenkins or GitLab CI](#Why-TeamCity-and-not-Jenkins-or-GitLab-CI)
 - [Skill tree](#skill-tree)
 - [Tool: level generator](#tool-level-generator)
 - [Tool: weight optimizer](#tool-weight-optimizer)
