@@ -11,6 +11,11 @@ Perforce + TeamCity + a Windows build agent, self-hosted on Proxmox, with a Disc
  
 - [The problem](#the-problem)
 - [The solution](#the-solution)
+  - [1. Why TeamCity and not Jenkins or GitLab CI](#1-why-teamcity-and-not-jenkins-or-gitlab-ci)
+  - [2. How it works](#2-how-it-works)
+  - [3. Build steps](#3-build-steps)
+  - [4. Infrastructure](#4-infrastructure)
+- [Strengths and limitations](#strengths-and-limitations)
 
 ## The problem
  
